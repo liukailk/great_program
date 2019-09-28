@@ -1,0 +1,271 @@
+# lk 技术收藏
+*   [jetbrains-pycharm激活](https://zhile.io/2018/08/17/jetbrains-license-server-crack.html)
+*   [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+*   [国内常用镜像源](https://www.cnblogs.com/liuguanglin/p/9397428.html)
+*   [windows系统破解工具kms](https://kmspi.co/)
+*   [深度](https://www.deepin.org/original/deepin-boot-maker/)
+*   [在线中文编程文档](https://legacy.gitbook.com/@wizardforcel)
+*   [ACM国际大学生程序设计竞赛](http://poj.org/problemlist)
+*   [华为开源镜像站](https://mirrors.huaweicloud.com/)
+
+# 开发网站
+* [C语言中文网](http://c.biancheng.net/)
+* [编程字典](http://codingdict.com/)
+* [在线流程图](https://www.draw.io/)
+* [开发语言排行榜](https://www.tiobe.com/tiobe-index/)
+* [Postman HTTP在线调试工具](https://www.cnblogs.com/mafly/p/postman.html)
+* [postMan客户端](https://www.getpostman.com/)
+* [stackoverflow](https://stackoverflow.com/)
+* [segmentfault思否](https://segmentfault.com/)
+* [dart中文网](https://www.dart-china.org/)
+* [Jupyter Notebook介绍、安装及使用教程](https://zhuanlan.zhihu.com/p/33105153)
+
+# 在线工具
+* [在线进制转换](http://tool.oschina.net/hexconvert/)
+* [ASCII码对照表](http://ascii.911cha.com/)
+* [人民币大写转换](https://www.917118.com/tool/rmb.html)
+* [在线流程图](https://www.draw.io/)
+* [在线绘图processon](https://www.processon.com/)
+
+# 百度网盘
+* [ENFI](https://juejin.im/post/5c1227cf518825237400c40f)
+* [速盘-极速版](https://www.speedpan.com/)
+* [速盘各种问题](http://faq.speedpan.com/chapter3/cuo-wu-16-he-cuo-wu-18.html)
+* []()
+* []()
+* []()
+
+
+# 树莓派系统写入内存卡
+ *   [树莓派系统写入内存卡](https://www.cnblogs.com/superbool/p/5324465.html)
+*   [使用diskpart恢复使用win32 disk imager处理过的U盘](https://blog.csdn.net/z3881006/article/details/72590539)
+
+# ZMQ
+*   [ZeroMQ教程中文版](https://blog.csdn.net/karlin999/article/details/79571357)
+*   [ZeroMQ教程中文版2](https://legacy.gitbook.com/book/wizardforcel/zmq-guide/details)
+*   [pyzmq学习笔记](https://www.cnblogs.com/haoxr/p/9083439.html)
+*   [pyzmq实验总结](https://applenob.github.io/python/pyzmq%E5%AE%9E%E9%AA%8C/)
+*   [Multithreading with ZeroMQ](http://zguide.zeromq.org/page:all#Multithreading-with-ZeroMQ)
+*   [The Simple Reply Envelope](http://zguide.zeromq.org/page:all#The-Simple-Reply-Envelope)
+*   [pyzmq 问答模式，超时重试，多线程](http://nphard.me/2016/03/05/pyzmq-demo/)
+*   [pyzmq实例](http://blog.chinaunix.net/uid-25979788-id-2602754.html)
+*   [zeromq简介及各个通讯模式实例详解](https://blog.csdn.net/flourishli/article/details/54962713)
+*   [pyzmq docapi](https://learning-0mq-with-pyzmq.readthedocs.io/en/latest/pyzmq/devices/streamer.html)
+
+# python
+*   [600集Python从入门到精通教程](https://www.bilibili.com/video/av14184325?from=search&seid=1558704504354411427)
+*   [python全栈开发](https://www.bilibili.com/video/av13690129?from=search&seid=5736431732275124283)
+* [python全栈 B站最长教程](https://www.bilibili.com/video/av46693539?from=search&seid=7776239841133535124)
+*   [马哥Python全栈+爬虫+高端自动化课程](https://www.bilibili.com/video/av57719509?from=search&seid=16722586698919523098)
+*   [Numpy&Pandas数据处理教程](https://www.bilibili.com/video/av16378934?from=search&seid=5736431732275124283)
+*   [千锋python全套视频](https://www.bilibili.com/video/av19956343?from=search&seid=5736431732275124283)
+*   [python中文教程网](https://www.pythontab.com/)
+*   [pycharm激活2019.1.2以下](https://zhile.io/2018/08/17/jetbrains-license-server-crack.html)
+*   [Python库全部](https://cloud.tencent.com/developer/article/1423628)
+*   [书单](https://cuiqingcai.com/6645.html)
+*   [八款图形化框架](https://blog.csdn.net/weixin_37773766/article/details/81535876)
+*   [Pygame写游戏](https://eyehere.net/2011/python-pygame-novice-professional-index/)
+*   [python游戏脚本制作](https://www.bilibili.com/video/av47453086?from=search&seid=16174381948141886671)
+*   [numpy中axis理解](https://blog.csdn.net/qq_29573053/article/details/76998695)
+* [Python实战之unittest使用详解](https://blog.51cto.com/2681882/2123613)
+* [*args和**kwargs是什么](https://www.cnblogs.com/zhangzhuozheng/p/8053045.html)
+* [字符串格式化](https://blog.csdn.net/weixin_40907382/article/details/80508677)
+* [python开发在线音乐播放器](https://www.cnblogs.com/whaben/p/6445503.html)
+* [python Decimal使用](https://www.iteye.com/blog/xiao80xiao-506524)
+* [f-string 更酷的格式化字符串](https://zhuanlan.zhihu.com/p/79826445)
+* [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [awesome-python-books](https://github.com/Junnplus/awesome-python-books)
+* [awesome-python-books](https://github.com/jobbole/awesome-python-books)
+* [wxpython](http://www.wxishiko.com/wxWidgetsTutorials/index.html)
+* [wxpython](https://docs.wxpython.org/)
+* [wxPython 把窗口部件放入框架中](https://blog.csdn.net/ztsghjls/article/details/54426277)
+* [wxPython视频教程](https://www.bilibili.com/video/av47145230/?p=2)
+* [Python工程师 金融行业项目实战](https://www.bilibili.com/video/av60424087?from=search&seid=11896481382102027983)
+* [PyCharm 从入门到实践](https://www.bilibili.com/video/av47493379?from=search&seid=11896481382102027983)
+* [Matplotlib视频](https://www.bilibili.com/video/av16378354?from=search&seid=11896481382102027983)
+* [python运维自动化开发教程](https://www.bilibili.com/video/av62702202?from=search&seid=11896481382102027983)
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# python WEB
+* [Flask Web开发实战](http://helloflask.com/book/contents/)
+* [Flask Web开发实战DEMO](https://github.com/greyli/helloflask)
+* [flask](https://github.com/pallets/flask)
+* [Full Stack Python全栈](https://www.fullstackpython.com/flask.html)
+* [Full Stack Python DEMO](https://www.fullstackpython.com/flask.html)---查找Flask resources
+* [Python Flask 优秀资源大全](https://www.jianshu.com/p/d062b209b669)
+* [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
+* [python3 flask](https://www.bilibili.com/video/av67172238?from=search&seid=11312649430738196049)
+
+# python问题
+* [No module named 'pip'](https://www.cnblogs.com/Teachertao/p/11027886.html)
+
+# Ubuntu安装python 3. 7
+* [ubuntu下误删源码文件](http://nphard.me/2015/09/30/linux-ubuntu-rm-hui-fu/)
+* [Ubuntu安装python 3. 7-1](https://yq.aliyun.com/articles/675910)
+* [Ubuntu安装python 3. 7-2](https://www.jianshu.com/p/f354a7d44867)
+* [No module named ‘_ctypes’解决办法](https://www.jianshu.com/p/d5e8704c9fb7)
+* [ubuntu18.04 安装 QQ](https://www.cnblogs.com/wkfvawl/p/11203894.html)
+* [ubuntu安装wxpython库](https://www.jianshu.com/p/4b1c090e1a69)
+* [ubuntu安装wxpython库2](http://www.mobibrw.com/2018/13606)
+
+# Python异步协程
+*   [使用方法介绍](https://cuiqingcai.com/6160.html)
+*   [python技术杂谈](https://cuiqingcai.com/category/technique/python)
+*   [竖着的图片转为横着](https://www.zhihu.com/question/310919699/answer/587351815)
+*   [python下载界面实现(带进度条，断点续传，多线程多任务下载等)](https://down.51cto.com/data/2445977)
+*   [Django Girls 教程](https://tutorial.djangogirls.org/zh/)
+*   [Django 文档](https://docs.djangoproject.com/zh-hans/2.2/)
+*   [600集Python从入门到精通教程](https://www.bilibili.com/video/av14184325/?spm_id_from=333.788.videocard.6)
+*   [深入理解 Python 异步编程](https://www.cnblogs.com/earendil/p/7411115.html)
+*   [python中的GIL详解](https://www.cnblogs.com/SuKiWX/p/8804974.html)
+*   [python异步编程之asyncio（百万并发）](https://www.cnblogs.com/shenh/p/9090586.html)
+*   [gather/wait](https://stackoverflow.com/questions/42231161/asyncio-gather-vs-asyncio-wait)
+*   [asyncio](https://www.cnblogs.com/zhaof/p/8490045.html)
+*   [一次python 内存泄漏解决过程](https://www.syncd.cn/article/memory_trouble)
+*   [深入理解Python异步编程](https://cloud.tencent.com/developer/article/1421897)
+*   [异步IO（ asyncio） 协程](https://www.jianshu.com/p/b5e347b3a17c)
+*   [Python高级编程和异步IO并发编程](https://www.bilibili.com/video/av64192449?from=search&seid=9919016489296368603)
+
+#   线性代数
+*   [线性代数](https://blog.csdn.net/C1664510416/article/details/90297035)
+*   [笛卡尔坐标系右手法则图解](https://www.zybang.com/question/35583619443d2163d5dd731826c47f1a.html)
+*   [左手坐标系和右手坐标系](https://blog.csdn.net/pengpengblog/article/details/52634898)
+*   [三维坐标旋转矩阵推导](https://blog.csdn.net/weixin_35127779/article/details/81510030)
+*   [三维空间坐标系变换-旋转矩阵](https://blog.csdn.net/fireflychh/article/details/82352710)
+*   [矩阵变换坐标系](https://www.cnblogs.com/webload/p/5992008.html)
+*   [坐标系与矩阵关系2->3维](https://blog.csdn.net/jiangdragon/article/category/1312278)
+*   [齐次坐标的理解](https://www.cnblogs.com/csyisong/archive/2008/12/09/1351372.html)
+*    [欧拉角（RPY角）动图](https://www.cnblogs.com/21207-iHome/p/6894128.html)
+*    [四元数与欧拉角（RPY角）的相互转换](https://www.cnblogs.com/21207-iHome/p/6894128.html)
+
+# 六轴机械臂
+*   [机器人启蒙](http://blog.sina.com.cn/s/articlelist_5133453234_4_1.html)
+*   [从RP入门机器人学](https://mp.weixin.qq.com/s/3gYTVezCAePcdqIDHXDsYg)
+*   [位置角度平移旋转，“乱七八糟”的坐标变换](https://mp.weixin.qq.com/s/UWXSE-p_FTbgShlbIM1Vkg)
+*   [机器人学-目录](https://mp.weixin.qq.com/s/jx2ViAcofXmrgsbLAW2_3Q)
+*   [机器人学导论](https://pan.baidu.com/s/1kTrGhpl?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)
+*   [台大机器人学之运动学——林沛群](https://www.bilibili.com/video/av54047883)
+*   [六自由度机械手运动控制](http://www.doc88.com/p-1816535454851.html)
+*   [01-引导篇](https://blog.csdn.net/ymj7150697/article/details/80546227)
+*   [02_算法坐标系的建立](https://blog.csdn.net/ymj7150697/article/details/80658236)
+*   [03_1_D-H参数表的建立](https://blog.csdn.net/ymj7150697/article/details/80699234)
+*   [03_2_标准D-H参数坐标系建立](https://mp.weixin.qq.com/s/Fjo--Pk4p2MO2UphXq8byg) 
+*   [03_3_机械臂的坐标系与数学模型：传说中的DH参数](https://www.a-site.cn/article/263401.html)
+*   [03_4_利用标定板的机械臂DH参数标定方法](https://www.doc88.com/p-1932878109429.html) 
+*   [04_1_正解（FK）和逆解（IK）](https://blog.csdn.net/ymj7150697/article/details/80902226)
+*   [04_2_正解+逆解+轨迹规划实现](https://blog.csdn.net/ymj7150697/article/category/7707970)
+*   [04_3_UR机械臂正逆解方法](https://www.cnblogs.com/mightycode/p/9095059.html)
+*   [05_正解（FK）](https://mp.weixin.qq.com/s/DMuYNREij27kmY3WGu1EFQ)
+*   [06_逆解](https://mp.weixin.qq.com/s/fh-p21eOZlSRdy3uyWo0_A)
+*   [07_末端走直线的轨迹规划](https://mp.weixin.qq.com/s/ZqSzTbkwgksmNyp3K6OX4w)
+*   [六轴机械臂运动学正逆解](https://blog.csdn.net/weicao1990/article/details/81670337)
+*   [逆解关节角θ1-6](https://blog.csdn.net/fengyu19930920/article/details/81144042)
+
+*   [Orocos Project](http://www.orocos.org/)
+*   [开源机器人库orocos KDL 学习笔记](https://blog.csdn.net/u014170067/article/category/7414708)
+*   [orocos_kdl](https://www.cnblogs.com/21207-iHome/p/8312854.html)
+*   [orocos_kinematics_dynamics库](https://github.com/orocos/orocos_kinematics_dynamics)     
+*   [orocos_kinematics_dynamics库解释](https://blog.csdn.net/gpeng832/article/category/6682717)
+*   [KDL-运动学与动力学库](https://www.cnblogs.com/lizhensheng/p/11117730.html) 
+
+*   [Eigen3安装1](https://www.cnblogs.com/lihanwen/p/9928063.html)
+*   [eigen3安装2](https://blog.csdn.net/jinzhu1911/article/details/95282032)
+*   [linux pip3找不到命令](http://mamicode.com/info-detail-2694327.html)
+*   [Python SIP安装配置](https://www.cnblogs.com/baotou/p/7468176.html)
+*   [gtk+3.0安装](https://www.cnblogs.com/flyingdirt/p/3427121.html)
+*   [PythonLibs (missing: PYTHON_LIBRARIES PYTHON_INCLUDE_DIRS)
+](https://stackoverflow.com/questions/24174394/cmake-is-not-able-to-find-python-libraries)
+*   [roboticslibrary](https://www.roboticslibrary.org/tutorials/)
+*   [PyCharm单独安装PyKDL](https://blog.csdn.net/my393661/article/details/80843567)
+*   [install CMake on Linux](https://www.jb51.net/os/Ubuntu/544945.html)
+
+# 人工智能    
+* [人工智能](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) 
+* [机器学习awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
+* [TensorFlow](http://www.tensorfly.cn/)
+* [TensorFlow视频](https://www.bilibili.com/video/av16001891?from=search&seid=1558704504354411427)
+* [Github开源人脸识别](https://www.jianshu.com/p/0b37452be63e)
+* [Python人工智能入门/数据分析](https://www.bilibili.com/video/av50817603?from=search&seid=5736431732275124283)
+* [Python+人工智能工程师](https://www.bilibili.com/video/av66477131?from=search&seid=17260616136470354822)
+* [AI人工智能+Python全栈+大数据01阶段](https://www.bilibili.com/video/av42965949?from=search&seid=17260616136470354822)
+* [python+opencv3.3](https://www.bilibili.com/video/av24998616?from=search&seid=17260616136470354822)
+* [数据结构与算法python3.7](https://www.bilibili.com/video/av66387288?from=search&seid=17260616136470354822)
+* [黑马python数据结构与算法](https://www.bilibili.com/video/av65381340?from=search&seid=11312649430738196049)
+* [2019 Python黑客编程](https://www.bilibili.com/video/av57850011?from=search&seid=17260616136470354822)
+* [opencv 计算机视觉与图形处理](https://www.bilibili.com/video/av63820561?from=search&seid=4707439631005291431)
+* [Python实现AI换脸](https://www.bilibili.com/video/av67481161?from=search&seid=4707439631005291431)
+* [传智黑马Python+人工智能就业班](https://www.bilibili.com/video/av64139385?from=search&seid=4707439631005291431)
+* [PyTorch 动态神经网络 ](https://www.bilibili.com/video/av15997678?from=search&seid=8577138698594077395)
+* [Python解数独](https://www.bilibili.com/video/av68065532?from=search&seid=8577138698594077395)
+* [强化学习 Reinforcement Learning](https://www.bilibili.com/video/av16921335?from=search&seid=11312649430738196049)
+* [Python黑客编程](https://www.bilibili.com/video/av59601854?from=search&seid=11312649430738196049)
+* [【Cracer录制】Python黑客编程培训](https://www.bilibili.com/video/av51406822?from=search&seid=11312649430738196049)
+* [机器学习与人工智能-高级班](https://www.bilibili.com/video/av63812105?from=search&seid=9919016489296368603)
+* [传智黑马Python+人工智能就业班1](https://www.bilibili.com/video/av64065585?from=search&seid=9919016489296368603)
+* [传智黑马Python+人工智能就业班2](https://www.bilibili.com/video/av64147959?from=search&seid=5457620580911121674)
+* [python数据分析与机器学习](https://www.bilibili.com/video/av30300809?from=search&seid=5457620580911121674)
+* [算法/英语听力/阅读理解](https://www.bilibili.com/video/av67850472?from=search&seid=5457620580911121674)
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# 爬虫
+* [网络爬虫视频scrapy](https://www.bilibili.com/video/av19057145?from=search&seid=1558704504354411427) 
+* [Python基础+爬虫项目+数据分析班](https://www.bilibili.com/video/av58185122?from=search&seid=4707439631005291431)   
+* [廖xf商业爬虫](https://www.bilibili.com/video/av65381340?from=search&seid=11312649430738196049)   
+* []()   
+* []()   
+* []()   
+* []()   
+* []()   
+    
+      
+# Java
+* [JavaFX视频教程](https://www.bilibili.com/video/av32110153/?spm_id_from=333.788.videocard.5)
+* [Solr详解全文搜索](https://zhuanlan.zhihu.com/p/74068467)        
+# USB
+* [RS-232、RS-422、RS-485原理区别和联系](https://zhuanlan.zhihu.com/p/72235639)
+# unity3D
+* [史上最全Unity3D教程](https://www.bilibili.com/video/av28779788/?p=164&t=785)
+
+# 老D博客--https://laod.cn/ 
+* [motrix下载工具](https://motrix.app/zh-CN/features) 
+    
+# 机械时代网--
+*   [机械时代网](http://www.jxage.com)
+*   [Proe/Creo](http://www.jxage.com/rjxz/)
+*   [SolidWork](http://www.jxage.com/rjaz/)
+*   [AutoCAD](http://www.jxage.com/autocad/)
+*   [UG](http://www.jxage.com/ug_nx/)
+
+# debian
+* [Debian下配置网络的方法](https://www.cnblogs.com/lizunicon/p/3798122.html)
+* [Debian下查看系统版本信息命令汇总](https://www.cnblogs.com/SunOne/p/5256657.html)
+* [更改debian的软件源sources.list-1](https://www.cnblogs.com/coding-my-life/p/3749871.html)
+* [更改debian的软件源sources.list-2](https://www.cnblogs.com/beanmoon/p/3387652.html)
+* [国内常用镜像源](https://www.cnblogs.com/liuguanglin/p/9397428.html)
+* [linux下安装cmake方法](https://www.jianshu.com/p/3703b1e0925e)(https://www.cnblogs.com/weiqinglan/p/5681539.html)
+* 开机自启动脚本->位置：/etc/rc.local,cd /home/orangepi/robots;./start.sh
+* start.sh->cd /home/orangepi/robots;screen -dmS keyboard python3.7; ./keyboard.py;exit 0
+* [find与grep命令](https://zhuanlan.zhihu.com/p/31103392)
+
+# 图像处理
+* [图像处理](https://blog.csdn.net/c1664510416/article/category/8128448)
+
+# MYSQL
+* [新浪SAE Mysql10秒连接问题](http://nphard.me/2015/09/19/xin-lang-sae-mysql-10s/)
+
+# C++ Primer 中文版第5版学习仓库
+* [C++ Primer 中文版第5版学习仓库](https://github.com/applenob/Cpp_Primer_Practice)
+
+# MongoDB
+* [mongodb国内镜像](http://dl.mongodb.org/dl/win32/x86_64)
+
+     
