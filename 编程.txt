@@ -7,6 +7,9 @@
 *   [在线中文编程文档](https://legacy.gitbook.com/@wizardforcel)
 *   [ACM国际大学生程序设计竞赛](http://poj.org/problemlist)
 *   [华为开源镜像站](https://mirrors.huaweicloud.com/)
+*   [GitChat](https://gitbook.cn/gitchat/columns)
+*   [阿里云栖社区](https://yq.aliyun.com/?spm=a2c4e.11157919.headermainnav.1.33d0f2040R4PLd)
+*   [Java技术进阶](https://yq.aliyun.com/teams/392?spm=a2c4e.11153959.teamright.19.113833eaRuXduN)
 
 # 开发网站
 * [C语言中文网](http://c.biancheng.net/)
@@ -229,7 +232,9 @@
       
 # Java
 * [JavaFX视频教程](https://www.bilibili.com/video/av32110153/?spm_id_from=333.788.videocard.5)
-* [Solr详解全文搜索](https://zhuanlan.zhihu.com/p/74068467)        
+* [Solr详解全文搜索](https://zhuanlan.zhihu.com/p/74068467) 
+* [Java技术栈](https://www.javastack.cn/)
+       
 # USB
 * [RS-232、RS-422、RS-485原理区别和联系](https://zhuanlan.zhihu.com/p/72235639)
 # unity3D
