@@ -10,6 +10,7 @@
 *   [GitChat](https://gitbook.cn/gitchat/columns)
 *   [阿里云栖社区](https://yq.aliyun.com/?spm=a2c4e.11157919.headermainnav.1.33d0f2040R4PLd)
 *   [Java技术进阶](https://yq.aliyun.com/teams/392?spm=a2c4e.11153959.teamright.19.113833eaRuXduN)
+*   [CSDN](https://www.csdn.net/)
 
 # 开发网站
 * [C语言中文网](http://c.biancheng.net/)
@@ -88,7 +89,8 @@
 * [PyCharm 从入门到实践](https://www.bilibili.com/video/av47493379?from=search&seid=11896481382102027983)
 * [Matplotlib视频](https://www.bilibili.com/video/av16378354?from=search&seid=11896481382102027983)
 * [python运维自动化开发教程](https://www.bilibili.com/video/av62702202?from=search&seid=11896481382102027983)
-* []()
+* [Python vlc](https://blog.csdn.net/yingshukun/article/details/89527561)
+* [Python vlc2](https://blog.csdn.net/fleaxin/article/details/101943941)
 * []()
 * []()
 * []()
@@ -272,6 +274,7 @@
 
 # MongoDB
 * [mongodb国内镜像](http://dl.mongodb.org/dl/win32/x86_64)
+* [mongodb官网下载](https://www.mongodb.com/download-center/community)
 
 # Dubbo
 * [40 道 Dubbo 面试题及答案](https://zhuanlan.zhihu.com/p/45846108)
