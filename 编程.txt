@@ -92,7 +92,7 @@
 * [python运维自动化开发教程](https://www.bilibili.com/video/av62702202?from=search&seid=11896481382102027983)
 * [Python vlc](https://blog.csdn.net/yingshukun/article/details/89527561)
 * [Python vlc2](https://blog.csdn.net/fleaxin/article/details/101943941)
-* []()
+* [pyaudio](https://blog.csdn.net/a506681571/article/details/85201279)
 * []()
 * []()
 * []()
@@ -281,4 +281,14 @@
 * [40 道 Dubbo 面试题及答案](https://zhuanlan.zhihu.com/p/45846108)
 * [Dubbo中文文档](http://dubbo.apache.org/zh-cn/docs/user/quick-start.html)
 
+#  网络吞吐量工具
+* [Linux,windows网络性能评估工具iperf 、CHARIOT](https://www.cnblogs.com/klb561/p/9215952.html)
+* [iperf -吞吐量测试工具](https://blog.csdn.net/hanlunko2016/article/details/82947565)
+* [网络性能测试工具 Throughput Test 1.0.21](https://dl.pconline.com.cn/download/1401884.html)
+* [NetTraffic网络流量监测器 1.58.2 中文版](https://dl.pconline.com.cn/download/400558.html)
+* [IPCam Suite 官方版](https://dl.pconline.com.cn/download/2617941.html)
+* [局域网监控（掌控）软件 1.487 官方版](https://dl.pconline.com.cn/download/359745.html)
+* []()
+* []()
+* []()
      
