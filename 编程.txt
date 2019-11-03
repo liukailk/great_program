@@ -244,14 +244,11 @@
 * []()   
 * []()   
     
-      
-# Java
-* [JavaFX视频教程](https://www.bilibili.com/video/av32110153/?spm_id_from=333.788.videocard.5)
-* [Solr详解全文搜索](https://zhuanlan.zhihu.com/p/74068467) 
-* [Java技术栈](https://www.javastack.cn/)
+     
        
 # USB
 * [RS-232、RS-422、RS-485原理区别和联系](https://zhuanlan.zhihu.com/p/72235639)
+
 # unity3D
 * [史上最全Unity3D教程](https://www.bilibili.com/video/av28779788/?p=164&t=785)
 
@@ -289,9 +286,6 @@
 * [mongodb国内镜像](http://dl.mongodb.org/dl/win32/x86_64)
 * [mongodb官网下载](https://www.mongodb.com/download-center/community)
 
-# Dubbo
-* [40 道 Dubbo 面试题及答案](https://zhuanlan.zhihu.com/p/45846108)
-* [Dubbo中文文档](http://dubbo.apache.org/zh-cn/docs/user/quick-start.html)
 
 #  网络吞吐量工具
 * [Linux,windows网络性能评估工具iperf 、CHARIOT](https://www.cnblogs.com/klb561/p/9215952.html)
@@ -304,5 +298,5 @@
 * []()
 * []()
 
-# 
+
      
