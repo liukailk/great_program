@@ -191,10 +191,12 @@
 *   [install CMake on Linux](https://www.jb51.net/os/Ubuntu/544945.html)
 
 # 人工智能    
+* [AI研习社](https://www.yanxishe.com/?from=pandas)
 * [人工智能](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) 
 * [机器学习awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
 * [TensorFlow](http://www.tensorfly.cn/)
 * [TensorFlow视频](https://www.bilibili.com/video/av16001891?from=search&seid=1558704504354411427)
+* [tensorflow莫烦](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/4-2-tensorboard2/)
 * [Github开源人脸识别](https://www.jianshu.com/p/0b37452be63e)
 * [Python人工智能入门/数据分析](https://www.bilibili.com/video/av50817603?from=search&seid=5736431732275124283)
 * [Python+人工智能工程师](https://www.bilibili.com/video/av66477131?from=search&seid=17260616136470354822)
@@ -216,11 +218,21 @@
 * [传智黑马Python+人工智能就业班2](https://www.bilibili.com/video/av64147959?from=search&seid=5457620580911121674)
 * [python数据分析与机器学习](https://www.bilibili.com/video/av30300809?from=search&seid=5457620580911121674)
 * [算法/英语听力/阅读理解](https://www.bilibili.com/video/av67850472?from=search&seid=5457620580911121674)
+* [机器学习算法](https://www.bilibili.com/video/av50309444?from=search&seid=6352518363921791742)
+* [上海交通大学张志华【机器学习导论】全套教程](https://www.bilibili.com/video/av41541089?from=search&seid=82235004053728878)
+* []()
+
+# keras
+* [scikitlearn与tensorflow区别](https://www.jianshu.com/p/0837b7c6ce10)
+* [scikit-learn (sklearn) 官方文档中文版](https://sklearn.apachecn.org/)
+* [keras-英文官网](https://keras.io/)
+* [keras-中文官网](https://keras.io/zh/)
+* [CNN中feature map、卷积核、卷积核个数、filter、channel的概念解释](https://blog.csdn.net/xys430381_1/article/details/82529397)
 * []()
 * []()
 * []()
 * []()
-* []()
+
 
 # 爬虫
 * [网络爬虫视频scrapy](https://www.bilibili.com/video/av19057145?from=search&seid=1558704504354411427) 
@@ -291,4 +303,6 @@
 * []()
 * []()
 * []()
+
+# 
      
