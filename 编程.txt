@@ -97,9 +97,10 @@
 * [wxpython](https://docs.wxpython.org/)
 * [wxPython 把窗口部件放入框架中](https://blog.csdn.net/ztsghjls/article/details/54426277)
 * [wxPython视频教程](https://www.bilibili.com/video/av47145230/?p=2)
+* [wxWidgets绘图基础](https://www.jianshu.com/p/6420be9dae01)
 * [Python工程师 金融行业项目实战](https://www.bilibili.com/video/av60424087?from=search&seid=11896481382102027983)
 * [PyCharm 从入门到实践](https://www.bilibili.com/video/av47493379?from=search&seid=11896481382102027983)
-* [Matplotlib视频](https://www.bilibili.com/video/av16378354?from=search&seid=11896481382102027983)
+
 * [python运维自动化开发教程](https://www.bilibili.com/video/av62702202?from=search&seid=11896481382102027983)
 * [Python vlc](https://blog.csdn.net/yingshukun/article/details/89527561)
 * [Python vlc2](https://blog.csdn.net/fleaxin/article/details/101943941)
@@ -125,6 +126,25 @@
 
 # python问题
 * [No module named 'pip'](https://www.cnblogs.com/Teachertao/p/11027886.html)
+
+# matplotlib 画图
+* [matplotlib官网](https://matplotlib.org/)
+* [matplotlib中文](https://www.matplotlib.org.cn/tutorials/)
+* [matplotlib中文gallery](https://www.matplotlib.org.cn/gallery/)
+* [Matplotlib视频](https://www.bilibili.com/video/av16378354?from=search&seid=11896481382102027983)
+* [matplotlib-gallery](https://matplotlib.org/gallery/index.html) 
+* [matplotlib-gallery2](https://matplotlib.org/gallery.html) 
+* [matplotlib-Examples2.0.2](https://matplotlib.org/examples/index.html) 
+* [matplotlib-Tutorials](https://matplotlib.org/tutorials/index.html) 
+* [matplotlib Developers' Guide](https://matplotlib.org/devel/index.html) 
+* [matplotlib的中文设置](https://www.jianshu.com/p/57b94a2c0985) 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+
 
 # Ubuntu安装python 3. 7
 * [ubuntu下误删源码文件](http://nphard.me/2015/09/30/linux-ubuntu-rm-hui-fu/)
