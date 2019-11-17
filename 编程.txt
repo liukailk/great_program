@@ -1,8 +1,8 @@
 # lk 技术收藏
+* [github中文社区](https://www.githubs.cn/)
 * [jetbrains-pycharm激活](https://zhile.io/2018/08/17/jetbrains-license-server-crack.html)
 * [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 * [国内常用镜像源](https://www.cnblogs.com/liuguanglin/p/9397428.html)
-* [windows系统破解工具kms](https://kmspi.co/)
 * [深度](https://www.deepin.org/original/deepin-boot-maker/)
 * [在线中文编程文档](https://legacy.gitbook.com/@wizardforcel)
 * [ACM国际大学生程序设计竞赛](http://poj.org/problemlist)
@@ -21,15 +21,36 @@
 * []()
 * []()
 
+# github开源项目
+* [github中文社区](https://www.githubs.cn/)
+* [iptv](https://github.com/iptv-org/iptv)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# github 游戏
+* [暗黑破坏神](https://github.com/OpenDiablo2/OpenDiablo2)
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
-# 开发网站
+
+#  开发网站
 * [C语言中文网](http://c.biancheng.net/)
 * [编程字典](http://codingdict.com/)
 * [在线流程图](https://www.draw.io/)
 * [开发语言排行榜](https://www.tiobe.com/tiobe-index/)
 * [Postman HTTP在线调试工具](https://www.cnblogs.com/mafly/p/postman.html)
 * [postMan客户端](https://www.getpostman.com/)
+* [postwoman](https://github.com/liyasthomas/postwoman)
 * [stackoverflow](https://stackoverflow.com/)
 * [segmentfault思否](https://segmentfault.com/)
 * [dart中文网](https://www.dart-china.org/)
@@ -102,8 +123,12 @@
 * [PyCharm 从入门到实践](https://www.bilibili.com/video/av47493379?from=search&seid=11896481382102027983)
 
 * [python运维自动化开发教程](https://www.bilibili.com/video/av62702202?from=search&seid=11896481382102027983)
+* [VideoLAN官网](https://www.videolan.org/vlc/download-windows.html)
 * [Python vlc](https://blog.csdn.net/yingshukun/article/details/89527561)
 * [Python vlc2](https://blog.csdn.net/fleaxin/article/details/101943941)
+* [vlc播放器直播rtsp网络流](http://www.itnotepad.cn/Home/Article/num/265.html)
+* [VLC RTSP推流](https://blog.csdn.net/JellyLi2091/article/details/83619652)
+* [VLC WinError 126找不到指定的模块](https://blog.csdn.net/jacke121/article/details/81208102)
 * [pyaudio](https://blog.csdn.net/a506681571/article/details/85201279)
 * [音频操作工具PyAudio上手教程详解](https://www.jb51.net/article/163992.htm)
 * [tqdm 是 Python 进度条库](https://www.jianshu.com/p/21cf48be6bf6)
@@ -123,9 +148,20 @@
 * [Python Flask 优秀资源大全](https://www.jianshu.com/p/d062b209b669)
 * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 * [python3 flask](https://www.bilibili.com/video/av67172238?from=search&seid=11312649430738196049)
+* []() 
+* []() 
+* []() 
+* []() 
 
 # python问题
 * [No module named 'pip'](https://www.cnblogs.com/Teachertao/p/11027886.html)
+* [pip报错：Fatal error in launcher: Unable to create process using](https://www.jianshu.com/p/d5764cca6e7b)
+* [python  -m pip install -i https://mirrors.huaweicloud.com/repository/pypi/simple --upgrade --force-reinstall pip]() 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
 
 # matplotlib 画图
 * [matplotlib官网](https://matplotlib.org/)
@@ -232,6 +268,7 @@
 * [人工智能](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/index.htm) 
 * [机器学习awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python)
 * [TensorFlow](http://www.tensorfly.cn/)
+* [Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)
 * [TensorFlow视频](https://www.bilibili.com/video/av16001891?from=search&seid=1558704504354411427)
 * [tensorflow莫烦](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/4-2-tensorboard2/)
 * [Github开源人脸识别](https://www.jianshu.com/p/0b37452be63e)
@@ -385,4 +422,14 @@
 
 # Go
 * [Go 语言开发 IDE 工具 JetBrains GoLand 2019.2.2 特别版下载](http://www.dayanzai.me/goland.html)
+
+# windows系统
+* [windows系统破解工具kms](https://kmspi.co/)
+* [Win10怎样让任务栏时间显示秒](https://jingyan.baidu.com/article/4ae03de3e091df3eff9e6b35.html)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
      
