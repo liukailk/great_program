@@ -125,6 +125,7 @@
 * [wxPython视频教程](https://www.bilibili.com/video/av47145230/?p=2)
 * [wxWidgets绘图基础](https://www.jianshu.com/p/6420be9dae01)
 * [wxPython布局管理器sizer](https://www.cnblogs.com/ajucs/p/3884488.html)
+* [WxPython BoxSizer强迫按照给定的参数重新定位它的所有孩子](https://blog.csdn.net/weixin_42353331/article/details/86707714)
 * [wxPython 键盘事件列表](https://www.cnblogs.com/ajucs/p/3903690.html)
 * [Python工程师 金融行业项目实战](https://www.bilibili.com/video/av60424087?from=search&seid=11896481382102027983)
 * [PyCharm 从入门到实践](https://www.bilibili.com/video/av47493379?from=search&seid=11896481382102027983)
@@ -409,6 +410,10 @@
 # MongoDB
 * [mongodb国内镜像](http://dl.mongodb.org/dl/win32/x86_64)
 * [mongodb官网下载](https://www.mongodb.com/download-center/community)
+* [mongodb studio3T一直试用](http://www.xdowns.com/app/419665.html)
+* [简单图像处理（图片->二进制->图片）](https://blog.csdn.net/qq_27170195/article/details/78192756)
+* []()
+* []()
 
 
 #  网络吞吐量工具
