@@ -199,6 +199,7 @@
 * [ubuntu安装wxpython库](https://www.jianshu.com/p/4b1c090e1a69)
 * [ubuntu安装wxpython库2](http://www.mobibrw.com/2018/13606)
 * [解决 ModuleNotFoundError: No module named 'pip'](https://blog.csdn.net/wwangfabei1989/article/details/80107147)
+* 
 
 # Python异步协程
 * [使用方法介绍](https://cuiqingcai.com/6160.html)

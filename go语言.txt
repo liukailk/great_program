@@ -1,2 +1,3 @@
 # Go语言
 * [Go](https://github.com/golang/go)
+* [Go语言教程](http://c.biancheng.net/golang/)

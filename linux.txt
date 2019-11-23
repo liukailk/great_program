@@ -1,0 +1,18 @@
+# linux
+* [linux命令](http://c.biancheng.net/linux_tutorial/)
+* [Linux学习教程](http://c.biancheng.net/linux_tutorial/) 
+* []() 
+* []() 
+* []() 
+* []() 
+* []() 
+
+# Linux Shell
+* [Linux Shell脚本学习指南](http://c.biancheng.net/shell/)
+* []()
+* []()
+* []()
+* []()
+
+# socket编程
+* [1天玩转socket通信技术](http://c.biancheng.net/socket/)
