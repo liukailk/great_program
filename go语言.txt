@@ -1,3 +1,4 @@
 # Go语言
 * [Go](https://github.com/golang/go)
 * [Go语言教程](http://c.biancheng.net/golang/)
+* [Golang百万级高并发实例](https://blog.51cto.com/11140372/2342942?source=dra)

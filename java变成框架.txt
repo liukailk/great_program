@@ -11,6 +11,30 @@
 * [React开发环境快速构建工具](https://github.com/facebook/create-react-app)
 * [java设计模式](https://github.com/iluwatar/java-design-patterns)
 * [Java设计模式：23种设计模式全面解析](http://c.biancheng.net/design_pattern/)
+* [一篇搞懂TCP、HTTP、Socket、Socket连接池](https://segmentfault.com/a/1190000014044351?utm_source=tag-newest)
+* [百万级访问量—高并发问题的解决历程](https://blog.csdn.net/zz_vim/article/details/89089122)
+* [LVS负载均衡（LVS简介、三种工作模式、十种调度算法）](https://blog.csdn.net/weixin_40470303/article/details/80541639)
+
+#  高并发
+* [高并发数据库设计 ](https://www.cnblogs.com/zhangj391/p/6715410.html)
+* [从单个服务器扩展到百万用户的系统 ](https://mp.weixin.qq.com/s/wSCeO8QVYniMIGcBFDZyjw)
+* [数据库扩展性架构设计 ](http://mp.weixin.qq.com/s/gI6j_TyjJ4jEb-i8HstFaw)
+* [分库分表需要考虑的问题及方案 ](http://www.jianshu.com/p/32b3e91aa22c)
+* [无限容量数据库架构设计 ](https://mp.weixin.qq.com/s/ad4tpM6cdi9r6vgfbaTzxg)
+* [MQ消息可达性+幂等性+延时性架构设计 ](http://mp.weixin.qq.com/s/8oX7u8XcLL80_nNdN-UkvQ)
+* [高可用+高并发+负载均衡架构设计 ](http://mp.weixin.qq.com/s/_I2SNfcAF0kPsRkZLs0uZg)
+* [数据库秒级平滑扩容架构方案 ](http://mp.weixin.qq.com/s/BLOneOs-cPxP_9b5eH8oQA)
+* [100亿数据平滑数据迁移,不影响服务 ](https://mp.weixin.qq.com/s/Ozqu2A7Sy_TGKkF6yF1rDQ)
+* [一分钟掌握数据库垂直拆分 ](http://mp.weixin.qq.com/s/ezD0CWHAr0RteC9yrwqyZA)
+* [5kw数据量，如何为表增加一列 ](http://mp.weixin.qq.com/s/HmTbhqS1QCAuPYrccdpwZw)
+* [互联网在线表结构变更 ](http://mp.weixin.qq.com/s/JJjLgNX3ZawwWkguP5iHVA)
+* [58同城，1万属性100亿数据量数据库架构设计]( https://mp.weixin.qq.com/s/3O3kPSwV-tAeYdy2ZRACpg)
+* [如何实现百万级的后台服务器并发压力测试](https://www.zhihu.com/question/47569842?sort=created)
+* [大企业百万级别并发架构](https://www.cnblogs.com/akic/p/11266781.html)
+* [Golang百万级高并发实例](https://blog.51cto.com/11140372/2342942?source=dra)
+* []()
+* []()
+* []()
 * []()
 
 # 在线开源项目
@@ -34,7 +58,7 @@
 
 
 
-# java框架 
+# java在线视频教程
 * [19年录制Zookeeper、Dubbo](https://search.bilibili.com/all?keyword=19%E5%B9%B4%E5%BD%95%E5%88%B6Zookeeper%E3%80%81Dubbo&from_source=banner_search)
 * [zookeeper常用命令行操作](https://blog.csdn.net/qq_36014509/article/details/81538132)
 * [zookeeper单机与集群](https://blog.csdn.net/xiaobing_122613/article/details/85016345)
@@ -63,6 +87,10 @@
 * [JavaFX视频教程](https://www.bilibili.com/video/av32110153/?spm_id_from=333.788.videocard.5)
 * [Solr详解全文搜索](https://zhuanlan.zhihu.com/p/74068467) 
 * [Java技术栈](https://www.javastack.cn/)
+* [达内java培优班课程](https://www.52pojie.cn/thread-1017947-1-1.html)
+
+
+
 
 * [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
 * []()
@@ -116,3 +144,5 @@
 
 # linux
 * [Linux内核源码](https://github.com/torvalds/linux)
+
+
