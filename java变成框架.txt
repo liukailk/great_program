@@ -14,6 +14,7 @@
 * [一篇搞懂TCP、HTTP、Socket、Socket连接池](https://segmentfault.com/a/1190000014044351?utm_source=tag-newest)
 * [百万级访问量—高并发问题的解决历程](https://blog.csdn.net/zz_vim/article/details/89089122)
 * [LVS负载均衡（LVS简介、三种工作模式、十种调度算法）](https://blog.csdn.net/weixin_40470303/article/details/80541639)
+* [开源中国](https://www.oschina.net/)
 
 #  高并发
 * [高并发数据库设计 ](https://www.cnblogs.com/zhangj391/p/6715410.html)
@@ -144,5 +145,13 @@
 
 # linux
 * [Linux内核源码](https://github.com/torvalds/linux)
+
+
+# maven
+* [Maven安装配置（Windows10）](https://www.cnblogs.com/wkrbky/p/6350334.html)
+* [Maven配置教程](https://blog.csdn.net/huo920/article/details/82082403)
+* [解决Could not maven-archetype-quickstart](https://blog.csdn.net/xummgg/article/details/50655382)
+* []()
+* []()
 
 
