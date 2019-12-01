@@ -151,7 +151,15 @@
 * [Maven安装配置（Windows10）](https://www.cnblogs.com/wkrbky/p/6350334.html)
 * [Maven配置教程](https://blog.csdn.net/huo920/article/details/82082403)
 * [解决Could not maven-archetype-quickstart](https://blog.csdn.net/xummgg/article/details/50655382)
+* [STS(Eclipse)构建Maven多模块项目（水平结构和树形结构）](https://blog.csdn.net/gpf19950411/article/details/82731633)
+* []()
+* []()
 * []()
 * []()
 
+# jar 
+* [ksoap2](https://sourceforge.net/projects/ksoap2/)
+* []()
+* []()
+* []()
 
