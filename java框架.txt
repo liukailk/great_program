@@ -158,8 +158,11 @@
 * []()
 
 # jar 
-* [ksoap2](https://sourceforge.net/projects/ksoap2/)
+* [ksoap2](https://sourceforge.net/projects/ksoap2/files/ksoap2/2.1.2/)
+* [添加jar包到本地Maven仓库](https://www.cnblogs.com/zeng1994/p/7486330.html)
 * []()
 * []()
-* []()
+
+# 插件
+* [eclipse/sts数据库生成实体](https://www.cnblogs.com/zeng1994/p/7486330.html)
 
