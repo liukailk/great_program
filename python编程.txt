@@ -25,17 +25,6 @@
 * []()
 * []()
 
-# github开源项目
-* [github中文社区](https://www.githubs.cn/)
-* [iptv](https://github.com/iptv-org/iptv)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
 
 # github 游戏
 * [暗黑破坏神](https://github.com/OpenDiablo2/OpenDiablo2)
@@ -400,11 +389,16 @@
 * [resnet50-模型下载地址pytorch](http://blog.sciencenet.cn/blog-538909-1127538.html)
 * [pytorch 预训练模型下载地址](https://github.com/Cadene/pretrained-models.pytorch/blob/master/pretrainedmodels/models/torchvision_models.py)
 * [tensorflow slim的预训练模型下载地址](https://github.com/tensorflow/models/tree/master/research/slim)
-* [用预训练模型的百度网盘链接](https://blog.csdn.net/chengji8457/article/details/100695008)
-* [预训练权重文件本地存放目录](https://blog.csdn.net/zkp_987/article/details/81590539)
+* [预训练模型1](https://blog.csdn.net/chengji8457/article/details/100695008)
+* [预训练模型2](https://www.jianshu.com/p/de6e81aa8829)
+* [预训练模型3](https://www.paddlepaddle.org.cn/modelbase)
+* [th与tf的区别](http://www.sohu.com/a/226545526_609569)
+* [对比复现34个预训练模型，PyTorch和Keras你选谁](https://www.codercto.com/a/66393.html)
+* [AlexNet Keras预训练模型](https://blog.csdn.net/wl1710582732/article/details/86516628)
+* [keras预训练模型应用(1)：ResNet50进行image分类](https://www.jianshu.com/p/ec299af94f81)
+* [resnet50_coco_best_v2.0.1.h5模型文件](https://blog.csdn.net/IT_BOY__/article/details/93205706)
 * []()
 * []()
-
 
 # MYSQL
 * [新浪SAE Mysql10秒连接问题](http://nphard.me/2015/09/19/xin-lang-sae-mysql-10s/)
