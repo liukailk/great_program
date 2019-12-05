@@ -2,7 +2,7 @@
 * [GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 * [实时语音克隆](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [github分类浏览](https://www.githubs.cn/collections)
-* []()
+* [GitHub中文排行榜，帮助你发现高分优秀中文项目](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 * []()
 * []()
 * []()
