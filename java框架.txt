@@ -12,9 +12,15 @@
 * [java设计模式](https://github.com/iluwatar/java-design-patterns)
 * [Java设计模式：23种设计模式全面解析](http://c.biancheng.net/design_pattern/)
 * [一篇搞懂TCP、HTTP、Socket、Socket连接池](https://segmentfault.com/a/1190000014044351?utm_source=tag-newest)
-* [百万级访问量—高并发问题的解决历程](https://blog.csdn.net/zz_vim/article/details/89089122)
 * [LVS负载均衡（LVS简介、三种工作模式、十种调度算法）](https://blog.csdn.net/weixin_40470303/article/details/80541639)
 * [开源中国](https://www.oschina.net/)
+
+# github JAVA技术
+* [Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程](https://github.com/ZhongFuCheng3y/3y)
+* [数据结构和算法必知必会的50个代码实现](https://github.com/wangzheng0822/algo)
+* [一套电商系统](https://github.com/macrozheng/mall)
+* [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
+* [Java 面试必会 直通BAT](https://github.com/gzc426/Java-Interview)
 
 #  高并发
 * [高并发数据库设计 ](https://www.cnblogs.com/zhangj391/p/6715410.html)
@@ -33,6 +39,7 @@
 * [如何实现百万级的后台服务器并发压力测试](https://www.zhihu.com/question/47569842?sort=created)
 * [大企业百万级别并发架构](https://www.cnblogs.com/akic/p/11266781.html)
 * [Golang百万级高并发实例](https://blog.51cto.com/11140372/2342942?source=dra)
+* [百万级访问量—高并发问题的解决历程](https://blog.csdn.net/zz_vim/article/details/89089122)
 * []()
 * []()
 * []()

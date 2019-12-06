@@ -1,7 +1,7 @@
 # linux
 * [linux命令](http://c.biancheng.net/linux_tutorial/)
 * [Linux学习教程](http://c.biancheng.net/linux_tutorial/) 
-* []() 
+* [linux内核源码](https://github.com/torvalds/linux) 
 * []() 
 * []() 
 * []() 
