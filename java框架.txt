@@ -143,6 +143,14 @@
 
 # SpringCloud
 * [springcloud结构](https://www.cnblogs.com/lexiaofei/p/6808152.html)
+* [springcloud中文网](https://www.springcloud.cc/)
+* [Spring Cloud 从入门到精通](https://blog.csdn.net/valada/article/details/80892573)
+* [一遍文章让你看懂的SpringCloud、错过你会后悔](https://blog.51cto.com/14257001/2408066)
+* [java进阶全套视频](http://its.bjyzmr.cn/java2/index.html?renqun_youhua=1961181)
+* [史上最简单的 SpringCloud 教程](https://blog.csdn.net/forezp/article/details/70148833)
+* []()
+* []()
+* []()
 
 
 # WEB
