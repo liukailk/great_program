@@ -145,13 +145,16 @@
 * [springcloud结构](https://www.cnblogs.com/lexiaofei/p/6808152.html)
 * [springcloud中文网](https://www.springcloud.cc/)
 * [Spring Cloud 从入门到精通](https://blog.csdn.net/valada/article/details/80892573)
+* [Spring Cloud 从入门到精通](http://blog.didispace.com/spring-cloud-learning/)
 * [一遍文章让你看懂的SpringCloud、错过你会后悔](https://blog.51cto.com/14257001/2408066)
 * [java进阶全套视频](http://its.bjyzmr.cn/java2/index.html?renqun_youhua=1961181)
 * [史上最简单的 SpringCloud 教程](https://blog.csdn.net/forezp/article/details/70148833)
+* [推荐几个Spring Cloud学习资料](https://segmentfault.com/a/1190000011170636?utm_source=tag-newest)
+* [日志分析ELK原理与介绍](https://www.cnblogs.com/aresxin/p/8035137.html)
+* [Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
 * []()
 * []()
 * []()
-
 
 # WEB
 * [ActionScript 3.0 完全自学视频教程打包下载 1.3G](http://www.dayanzai.me/actionscript.html)
