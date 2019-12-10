@@ -1,4 +1,5 @@
 # Java学习指南
+* [JDK13在线文档](https://docs.oracle.com/en/java/javase/13/index.html)
 * [各语言编程指南](https://github.com/justjavac/free-programming-books-zh_CN)
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)
 * [invious是YouTube的另一个前端](https://github.com/omarroth/invidious)
@@ -14,6 +15,12 @@
 * [一篇搞懂TCP、HTTP、Socket、Socket连接池](https://segmentfault.com/a/1190000014044351?utm_source=tag-newest)
 * [LVS负载均衡（LVS简介、三种工作模式、十种调度算法）](https://blog.csdn.net/weixin_40470303/article/details/80541639)
 * [开源中国](https://www.oschina.net/)
+* [系统设计入门](https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md)
+* [Undertow,Tomcat和Jetty服务器配置详解与性能测试](https://blog.csdn.net/qq_39865635/article/details/90375762)
+* []()
+* []()
+* []()
+* []()
 
 # github JAVA技术
 * [Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程](https://github.com/ZhongFuCheng3y/3y)
@@ -95,6 +102,7 @@
 * [达内java培优班课程](https://www.52pojie.cn/thread-1017947-1-1.html)
 
 
+
 # 大数据
 * [github大数据](https://github.com/heibaiying/BigData-Notes)
 * [尚硅谷大数据技术之机器学习和推荐系统](https://www.bilibili.com/video/av68423032?from=search&seid=12233080339208757692)
@@ -134,6 +142,8 @@
 * [Dubbo中文文档](http://dubbo.apache.org/zh-cn/docs/user/quick-start.html)
 
 # SpringCloud
+* [mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术](https://github.com/macrozheng/mall-swarm)
+* [mall,SpringBoot+MyBatis实现电商系统](https://github.com/macrozheng/mall)
 * [springcloud结构](https://www.cnblogs.com/lexiaofei/p/6808152.html)
 * [springcloud中文网](https://www.springcloud.cc/)
 * [一遍文章让你看懂的SpringCloud、错过你会后悔](https://blog.51cto.com/14257001/2408066)

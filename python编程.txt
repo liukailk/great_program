@@ -137,6 +137,12 @@
 * [Algorithms - Python](https://github.com/TheAlgorithms/Python)
 * [Real-Time Voice Cloning文本语音合成（SV2TTS）的转换学习的声音编码器](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 * [PyMySQL的基本使用](https://www.cnblogs.com/xfxing/p/9322199.html)
+* [Python3 logging模块1](https://blog.csdn.net/qq_33515088/article/details/86294150)
+* [python3 logging模块2](https://www.cnblogs.com/wenwei-blog/p/7196658.html)
+* [python logging模块日志回滚RotatingFileHandler](https://www.cnblogs.com/SunshineKimi/p/10540178.html)
+* [Python---logging&try-exception捕捉记录异常](https://blog.csdn.net/wendaomudong_l2d4/article/details/79688551)
+* []()
+* []()
 * []()
 
 # python WEB
@@ -330,10 +336,7 @@
 * [廖xf商业爬虫](https://www.bilibili.com/video/av65381340?from=search&seid=11312649430738196049)   
 * []()   
 * []()   
-* []()   
-* []()   
-* []()   
-    
+
      
        
 # USB
@@ -346,11 +349,7 @@
 * [手机游戏开发工具集 CocoStudio 3.16 + 1.6 经典中文版下载](http://www.dayanzai.me/cocostudio.html)
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
+
 
 
 # 老D博客--https://laod.cn/ 
