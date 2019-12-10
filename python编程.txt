@@ -140,7 +140,7 @@
 * [Python3 logging模块1](https://blog.csdn.net/qq_33515088/article/details/86294150)
 * [python3 logging模块2](https://www.cnblogs.com/wenwei-blog/p/7196658.html)
 * [python logging模块日志回滚RotatingFileHandler](https://www.cnblogs.com/SunshineKimi/p/10540178.html)
-* []()
+* [Python---logging&try-exception捕捉记录异常](https://blog.csdn.net/wendaomudong_l2d4/article/details/79688551)
 * []()
 * []()
 * []()
