@@ -163,7 +163,7 @@
 * [hystrix 的异常 fallback method wasn't found-目标方法和回退方法参数和返回类型要一致](https://blog.csdn.net/didi7696/article/details/80389746)
 * [ZuulException: Forwarding error,Forwarding error1](https://www.cnblogs.com/jiqu/p/10957128.html)
 * [ZuulException: Forwarding error,Forwarding error2](http://www.yayihouse.com/yayishuwu/chapter/1599)
-* []()
+* [Spring Cloud Config 实现配置中心](https://www.cnblogs.com/fengzheng/p/11242128.html)
 * []()
 * []()
 * []()
