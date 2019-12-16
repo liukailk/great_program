@@ -132,6 +132,8 @@
 * [音频操作工具PyAudio上手教程详解](https://www.jb51.net/article/163992.htm)
 * [tqdm 是 Python 进度条库](https://www.jianshu.com/p/21cf48be6bf6)
 * [PyAudio 实现录音 自动化交互实现问答](http://www.mamicode.com/info-detail-2345888.html)
+* [pyaudio-OSError: [Errno -9999] Unanticipated host error 1](https://stackoverflow.com/questions/41518905/pyaudio-oserror-errno-9999-unanticipated-host-error)
+* [pyaudio-OSError: [Errno -9999] Unanticipated host error 2](https://stackoverflow.com/questions/43841316/pyaudio-oserror-errno-9999-unanticipated-host-error/57086198#57086198)
 * [Python处理音频信号实战 : 手把手教你实现音乐流派分类和特征提取](https://www.jiqizhixin.com/articles/2019-01-11-25)
 * [python 实现wav的波形显示（时域和频域）](https://www.cnblogs.com/dylancao/p/9783410.html)
 * [Algorithms - Python](https://github.com/TheAlgorithms/Python)
@@ -141,7 +143,7 @@
 * [python3 logging模块2](https://www.cnblogs.com/wenwei-blog/p/7196658.html)
 * [python logging模块日志回滚RotatingFileHandler](https://www.cnblogs.com/SunshineKimi/p/10540178.html)
 * [Python---logging&try-exception捕捉记录异常](https://blog.csdn.net/wendaomudong_l2d4/article/details/79688551)
-* []()
+* [python logging日志捕获代码异常（traceback）](https://blog.csdn.net/pansaky/article/details/90710584)
 * []()
 * []()
 
@@ -418,7 +420,7 @@
 * [mongodb官网下载](https://www.mongodb.com/download-center/community)
 * [mongodb studio3T一直试用](http://www.xdowns.com/app/419665.html)
 * [简单图像处理（图片->二进制->图片）](https://blog.csdn.net/qq_27170195/article/details/78192756)
-* []()
+* [MongoDB4.0支持事务管理](https://blog.csdn.net/qq_33774822/article/details/84065571)
 * []()
 
 
@@ -453,6 +455,13 @@
 * []()
 * []()
 * []()
-* []()
+
+# pyinstaller打包
+* [pyinstaller打包](https://gitee.com/onewaytripkm/great_program/blob/master/python项目打包exe.txt)
+* [PyInstaller将Python文件打包为exe后如何反编译（破解源码）以及防止反编译](https://blog.csdn.net/ZhaDeNianQu/article/details/87717293)
+* [解决python提示No module named 'win32com'](https://jingyan.baidu.com/article/54b6b9c08f4dc42d583b4784.html)
+* [No module named 'sklearn.utils.cython_blas'](https://blog.csdn.net/baidu_36536257/article/details/90609379)
+* [解决pyinstaller打包sklearn等库出现的问题](https://blog.csdn.net/qq_40587575/article/details/86500445)
+* [可参考：使用PYINSTALLER打包多文件和目录的PYTHON项目 ](https://blog.csdn.net/qq_40587575/article/details/86500445)
 * []()
      

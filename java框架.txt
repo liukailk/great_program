@@ -83,8 +83,6 @@
 * [资深京东架构师-亲授 JVM 面试题1](https://www.bilibili.com/video/av55771663)
 * [资深京东架构师-亲授 JVM 面试题2](https://www.bilibili.com/video/av55778979?from=search&seid=5304982087985004429)
 * [2019最新Java面试题集精讲全集](https://www.bilibili.com/video/av60719793/?spm_id_from=333.788.videocard.16)
-* [netty源码分析之netty设计架构模式详解](https://www.bilibili.com/video/av58786879?from=search&seid=9799140655925587866)
-* [网络应用框架 Netty 视频教程全集（91P）| 61 小时从入门到精通](https://www.bilibili.com/video/av59683486/?p=3)
 * [马哥Linux高端运维云计算就业班](https://www.bilibili.com/video/av59001865/?spm_id_from=333.788.videocard.16)
 * [飞哥编程722040762](https://space.bilibili.com/314603970?spm_id_from=333.788.b_765f7570696e666f.2)
 * [JVM虚拟机底层原理分析与性能优化](https://www.bilibili.com/video/av63437424?from=search&seid=3770487040748515703)
@@ -116,6 +114,36 @@
 * []()
 
 
+* [All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# Netty
+* [java nio的一个严重BUG](https://www.cnblogs.com/softidea/p/4861291.html)
+* [java socket通信 解决jdk自带的 nio epoll 空轮询bug （各种nio框架的解决方案）](https://blog.csdn.net/hemeinvyiqiluoben/article/details/82941571)
+* [彻底理解Netty，这一篇文章就够了](https://segmentfault.com/a/1190000017128263?utm_source=tag-newest)
+* [Netty 编码前理论详解](https://blog.csdn.net/wangmx1993328/article/details/83035760)
+* [Netty 入门示例详解](https://blog.csdn.net/wangmx1993328/article/details/83036285)
+* [TCP 粘包/拆包说明 及 异常案例](https://blog.csdn.net/wangmx1993328/article/details/83827963)
+* [LineBasedFrameDecoder 行解码器，回车换行符解决 TCP 粘包](https://blog.csdn.net/wangmx1993328/article/details/83929476)
+* [DelimiterBasedFrameDecoder 自定义分隔符解码器，解决 TCP 粘包](https://blog.csdn.net/wangmx1993328/article/details/83956282)
+* [《Netty权威指南(第2版)》PDF 下载](http://www.java1234.com/a/javabook/javabase/2016/0122/5570.html)
+
+* [NettyGameServer netty4.X实现的手机游戏分布式服务器](https://github.com/jwpttcg66/NettyGameServer)
+* [Netty 案例大全](https://github.com/waylau/netty-4-user-guide-demos)
+* [netty码云仓库](https://gitee.com/mirrors/netty)
+* [李林峰老师编写的netty权威指南（第二版）对应的源码](https://github.com/wuyinxian124/nettybook2)
+* [netty-learning](https://github.com/code4craft/netty-learning)
+* []()
+* []()
+* [netty源码分析之netty设计架构模式详解](https://www.bilibili.com/video/av58786879?from=search&seid=9799140655925587866)
+* [网络应用框架 Netty 视频教程全集（91P）| 61 小时从入门到精通](https://www.bilibili.com/video/av59683486/?p=3)
+
+
 # javascript
 * [React is a JavaScript library for building user interfaces.](https://github.com/facebook/react)
 * [基于vue2 + koa2的 H5制作工具。让不会写代码的人也能轻松快速上手制作H5页面。类似易企秀、百度H5等H5制作、建站工具](https://github.com/huangwei9527/quark-h5)
@@ -132,8 +160,11 @@
 
 # redis
 * [Redis 一站式管理平台，支持集群创建、管理、监控、报警](https://github.com/ngbdf/redis-manager)
+* [实例解读什么是Redis缓存穿透、缓存雪崩和缓存击穿](https://baijiahao.baidu.com/s?id=1619572269435584821&wfr=spider&for=pc)
 * []()
-
+* []()
+* []()
+* []()
 
 
 
@@ -146,27 +177,15 @@
 * [mall,SpringBoot+MyBatis实现电商系统](https://github.com/macrozheng/mall)
 * [springcloud结构](https://www.cnblogs.com/lexiaofei/p/6808152.html)
 * [springcloud中文网](https://www.springcloud.cc/)
+* [Spring Cloud 从入门到精通](https://blog.csdn.net/valada/article/details/80892573)
+* [Spring Cloud 从入门到精通](http://blog.didispace.com/spring-cloud-learning/)
 * [一遍文章让你看懂的SpringCloud、错过你会后悔](https://blog.51cto.com/14257001/2408066)
 * [java进阶全套视频](http://its.bjyzmr.cn/java2/index.html?renqun_youhua=1961181)
-* [**史上最简单的 SpringCloud 教程](https://blog.csdn.net/forezp/article/details/70148833)
-* [**方志朋Spring Cloud 学习教程&视频](http://www.chilangedu.com/course/1910610451.html)
-* [Spring Cloud 系列文章](https://www.fangzhipeng.com/spring-cloud.html)
+* [史上最简单的 SpringCloud 教程](https://blog.csdn.net/forezp/article/details/70148833)
 * [推荐几个Spring Cloud学习资料](https://segmentfault.com/a/1190000011170636?utm_source=tag-newest)
 * [日志分析ELK原理与介绍](https://www.cnblogs.com/aresxin/p/8035137.html)
 * [Spring Cloud 学习资料汇总](http://www.ityouknow.com/springcloud/2016/12/30/springcloud-collect.html)
-* [STS打包SpringBoot项目并部署到Tomcat运行1](https://blog.csdn.net/qq_33371766/article/details/80163752)
-* [STS打包SpringBoot项目并部署到Tomcat运行2](https://blog.csdn.net/qq_34802416/article/details/86485522)
-* [SpringCloud-微服务的注册与发现Eureka](https://cloud.tencent.com/developer/article/1152507)
-* [Eureka报错“EMERGENCY!](https://blog.csdn.net/daijiguo/article/details/84244711)
-* [Spring学习笔记之RestTemplate使用小结](https://www.jb51.net/article/145618.htm)
-* [@EnableDiscoveryClient与@EnableEurekaClient 区别](https://www.cnblogs.com/ming-blogs/p/10640843.html)
-* [hystrix 的异常 fallback method wasn't found-目标方法和回退方法参数和返回类型要一致](https://blog.csdn.net/didi7696/article/details/80389746)
-* [ZuulException: Forwarding error,Forwarding error1](https://www.cnblogs.com/jiqu/p/10957128.html)
-* [ZuulException: Forwarding error,Forwarding error2](http://www.yayihouse.com/yayishuwu/chapter/1599)
-* [Spring Cloud Config 实现配置中心](https://www.cnblogs.com/fengzheng/p/11242128.html)
-* []()
-* []()
-* []()
+* [Spring 全家桶系列教程](https://github.com/wuyouzhuguli/SpringAll)
 * []()
 * []()
 
@@ -209,17 +228,8 @@
 #  函数式接口
 * [java8函数式接口](https://blog.csdn.net/qq_28410283/article/details/80625482)
 
-# nginx
-* [Redis+FastDFS+Dubbo+Nginx+SpringMVC+Mybatis+Mycat高并发高集群分](https://www.bilibili.com/video/av70426780?from=search&seid=12233080339208757692)
-* [nginx实战视频教程](http://www.chilangedu.com/course/1914005477.html)
+# RabbitMQ 
+* [RabbitMQ视频教程](https://www.bilibili.com/video/av71666962?p=2)
 * []()
 * []()
-* []()
-* []()
-* []()
-* []()
-* []()
-
-# Netty
-* [Netty高并发网络通信框架视频教程](http://www.chilangedu.com/course/219066187.html)
 * []()

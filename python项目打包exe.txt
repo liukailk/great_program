@@ -1,0 +1,37 @@
+python 安装pyinstaller
+复制项目到新路径根据自己电脑环境，我的新路径E:\PatrolSVN\pythonexe
+项目上右键-》powershell运行
+或
+命令行：运行-》cmd-》
+    进入E:\PatrolSVN\pythonexe目录
+    先执行
+    pyinstaller -D -i E:\PatrolSVN\pythonexe\PatrolRobot\sources\icon.ico RobotMain.py
+    命令行，进入E:\PatrolSVN\pythonexe\PatrolRobot\dist\RobotMain目录，输入.\RobotMain.exe
+    黑窗口不报错，再执行
+    pyinstaller -D -w -i E:\PatrolSVN\pythonexe\PatrolRobot\sources\icon.ico RobotMain.py
+    如果报以下错误：
+    No module named 'sklearn.utils.cython_blas'.....,
+    在项目根目录下的"入口文件名.spec"文件(我的是RobotMain.spec)
+    的hiddenimports属性，设置为：
+    hiddenimports=['cython',  'sklearn',  'sklearn.utils._cython_blas', 'sklearn.neighbors.typedefs', 'sklearn.neighbors.quad_tree', 'sklearn.tree', 'sklearn.tree._utils']
+    根据报错信息修改hiddenimports属性，
+    然后在项目根目录下，命令窗口，执行命令：pyinstaller RobotMain.spec
+    根据提示输入“y”,回车，如果还有报错重复以上步骤。
+    出现：PermissionError: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'E:\\PatrolSVN\\pythonexe\\PatrolRobot\\dist\\RobotMain'
+    关掉其他命令窗口，再次执行命令：pyinstaller RobotMain.spec
+    根据提示输入“y”,回车，直到出现：“17304 INFO: Building COLLECT COLLECT-00.toc completed successfully.”
+    编译完成，
+    命令行，进入E:\PatrolSVN\pythonexe\PatrolRobot\dist\RobotMain目录，输入.\RobotMain.exe
+    是dist下
+    缺少libvlc.dll,复制VLC media player安装目录下的libvlc.dll到dist项目下的根目录如本项目“RobotMain”
+    复制资源sources文件夹到dist下项目根目录下，其他需要手动生成的目录也在项目根目录下手动创建
+    由于项目中配置了项目根路径，所以复制dist下的RobotMain到其他路径下重命名为“PatrolRobot”
+    此时，在任意没有安装python相关库的电脑上运行“PatrolRobot”项目下的RobotMain.exe.
+    结束。
+
+
+* [PyInstaller将Python文件打包为exe后如何反编译（破解源码）以及防止反编译](https://blog.csdn.net/ZhaDeNianQu/article/details/87717293)
+* [解决python提示No module named 'win32com'](https://jingyan.baidu.com/article/54b6b9c08f4dc42d583b4784.html)
+* [No module named 'sklearn.utils.cython_blas'](https://blog.csdn.net/baidu_36536257/article/details/90609379)
+* [解决pyinstaller打包sklearn等库出现的问题](https://blog.csdn.net/qq_40587575/article/details/86500445)
+*
