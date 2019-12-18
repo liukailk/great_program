@@ -16,3 +16,16 @@
 
 # socket编程
 * [1天玩转socket通信技术](http://c.biancheng.net/socket/)
+
+# windows linux虚拟机安装centos
+* [CentOS全名为“社区企业操作系统”(Community Enterprise Operating System)]()
+* [VMware安装Centos7超详细过程（图文](https://blog.csdn.net/babyxue/article/details/80970526)
+* [ping ip主机提示Destination host unreachable问题解决方法小结](https://blog.csdn.net/yzit0905/article/details/52748122)
+* [CentOS 7镜像下载](https://www.jianshu.com/p/a63f47e096e8)
+* [Linux虚拟机安装（Centos安装）详情](https://blog.csdn.net/LouisZhoun/article/details/88668161)
+* [VMware虚拟机安装Linux系统(详解版)](http://c.biancheng.net/view/714.html)
+* [VM安装CentOS6.5](https://mp.weixin.qq.com/s?src=11&timestamp=1576593013&ver=2040&signature=86b5awlOasyeCo7RjSHKvbRz-eXYLc7aOTI*S3-4Wahrgmdi*RqOp4RCjXx80pGFaG2kTxfl8t98z1ooODByprVI0HHGmLZTQWTYUJ9wOCypfENnoUTuwhLCJBjHBh9J&new=1)
+* [VMware CentOS6.5 设置固定IP](https://blog.csdn.net/brushli/article/details/38567309)
+* []()
+* []()
+* []()
