@@ -29,3 +29,16 @@
 * []()
 * []()
 * []()
+
+# RabbitMQ CentOS6.5 安装
+* [RabbitMQ CentOS6.5 安装](https://www.cnblogs.com/lazyInsects/p/7999287.html)
+* [erlang清华镜像](https://mirrors.tuna.tsinghua.edu.cn/erlang-solutions/centos/)
+* [centos 6.5 yum安装rabbitMQ](https://www.cnblogs.com/gaibianziji/p/10219159.html)
+* [linux报错Loading mirror speeds from cached hostfile解决方法](https://www.cnblogs.com/xuzhaoyang/p/11239224.html)
+* [yum安装时出现：Cannot retrieve metalink for repository: epel. Please verify its path and try again](https://blog.csdn.net/chhnang2016/article/details/94127505)
+* [CentOS6.9安装socat](yum -y install epel-release --- yum -y install socat)
+* [CentOS 6.5安装Erlang及RabbitMQ](https://blog.csdn.net/qq_15140841/article/details/81502400)
+* []()
+* []()
+* []()
+* []()
