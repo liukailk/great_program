@@ -26,8 +26,7 @@
 * [VMware虚拟机安装Linux系统(详解版)](http://c.biancheng.net/view/714.html)
 * [VM安装CentOS6.5](https://mp.weixin.qq.com/s?src=11&timestamp=1576593013&ver=2040&signature=86b5awlOasyeCo7RjSHKvbRz-eXYLc7aOTI*S3-4Wahrgmdi*RqOp4RCjXx80pGFaG2kTxfl8t98z1ooODByprVI0HHGmLZTQWTYUJ9wOCypfENnoUTuwhLCJBjHBh9J&new=1)
 * [VMware CentOS6.5 设置固定IP](https://blog.csdn.net/brushli/article/details/38567309)
-* []()
-* []()
+* [解决yum安装下载慢的问题](https://blog.csdn.net/xiaolong_4_2/article/details/81532517)
 * []()
 
 # RabbitMQ CentOS6.5 安装
@@ -37,8 +36,9 @@
 * [linux报错Loading mirror speeds from cached hostfile解决方法](https://www.cnblogs.com/xuzhaoyang/p/11239224.html)
 * [yum安装时出现：Cannot retrieve metalink for repository: epel. Please verify its path and try again](https://blog.csdn.net/chhnang2016/article/details/94127505)
 * [CentOS6.9安装socat](yum -y install epel-release --- yum -y install socat)
-* [CentOS 6.5安装Erlang及RabbitMQ](https://blog.csdn.net/qq_15140841/article/details/81502400)
-* []()
-* []()
+* [*CentOS 6.5安装Erlang及RabbitMQ](https://blog.csdn.net/qq_15140841/article/details/81502400)
+* [*在Linux下安装RabbitMQ教程](https://blog.csdn.net/qq_20492999/article/details/81254242)
+* [Socat 入门教程](https://www.hi-linux.com/posts/61543.html)
+* [rabbitmq-server快速下载安装](https://packagecloud.io/app/rabbitmq/rabbitmq-server/search?q=3.7.23)
 * []()
 * []()
