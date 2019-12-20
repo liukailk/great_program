@@ -30,9 +30,7 @@
 * []()
 
 # RabbitMQ CentOS6.5 安装
-* [RabbitMQ CentOS6.5 安装](https://www.cnblogs.com/lazyInsects/p/7999287.html)
 * [erlang清华镜像](https://mirrors.tuna.tsinghua.edu.cn/erlang-solutions/centos/)
-* [centos 6.5 yum安装rabbitMQ](https://www.cnblogs.com/gaibianziji/p/10219159.html)
 * [linux报错Loading mirror speeds from cached hostfile解决方法](https://www.cnblogs.com/xuzhaoyang/p/11239224.html)
 * [yum安装时出现：Cannot retrieve metalink for repository: epel. Please verify its path and try again](https://blog.csdn.net/chhnang2016/article/details/94127505)
 * [CentOS6.9安装socat](yum -y install epel-release --- yum -y install socat)
@@ -40,5 +38,10 @@
 * [*在Linux下安装RabbitMQ教程](https://blog.csdn.net/qq_20492999/article/details/81254242)
 * [Socat 入门教程](https://www.hi-linux.com/posts/61543.html)
 * [rabbitmq-server快速下载安装](https://packagecloud.io/app/rabbitmq/rabbitmq-server/search?q=3.7.23)
+* [*Centos7环境下安装 RabbitMQ 3.7.7](https://blog.csdn.net/m0_37992075/article/details/82527534?locationNum=12&fps=1)
+* [*rabbitmq-server下载速度超快](https://dl.bintray.com/rabbitmq/)
+* [*rabbitmq外网访问的坑-重启外网访问不到](https://blog.csdn.net/qq_30502699/article/details/79572023)
+* []()
+* []()
 * []()
 * []()
