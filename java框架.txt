@@ -123,26 +123,28 @@
 * []()
 
 # Netty
+* [netty源码分析之netty设计架构模式详解](https://www.bilibili.com/video/av58786879?from=search&seid=9799140655925587866)
+* [网络应用框架 Netty 视频教程全集（91P）| 61 小时从入门到精通](https://www.bilibili.com/video/av59683486/?p=3)
+* [看这个就够了-尚硅谷韩顺平Netty视频教程（2019最新netty教程）](https://www.bilibili.com/video/av76227904?p=42)
 * [java nio的一个严重BUG](https://www.cnblogs.com/softidea/p/4861291.html)
 * [java socket通信 解决jdk自带的 nio epoll 空轮询bug （各种nio框架的解决方案）](https://blog.csdn.net/hemeinvyiqiluoben/article/details/82941571)
 * [彻底理解Netty，这一篇文章就够了](https://segmentfault.com/a/1190000017128263?utm_source=tag-newest)
+* [NettyGameServer netty4.X实现的手机游戏分布式服务器](https://github.com/jwpttcg66/NettyGameServer)
 * [Netty 编码前理论详解](https://blog.csdn.net/wangmx1993328/article/details/83035760)
 * [Netty 入门示例详解](https://blog.csdn.net/wangmx1993328/article/details/83036285)
 * [TCP 粘包/拆包说明 及 异常案例](https://blog.csdn.net/wangmx1993328/article/details/83827963)
 * [LineBasedFrameDecoder 行解码器，回车换行符解决 TCP 粘包](https://blog.csdn.net/wangmx1993328/article/details/83929476)
 * [DelimiterBasedFrameDecoder 自定义分隔符解码器，解决 TCP 粘包](https://blog.csdn.net/wangmx1993328/article/details/83956282)
 * [《Netty权威指南(第2版)》PDF 下载](http://www.java1234.com/a/javabook/javabase/2016/0122/5570.html)
-
 * [NettyGameServer netty4.X实现的手机游戏分布式服务器](https://github.com/jwpttcg66/NettyGameServer)
 * [Netty 案例大全](https://github.com/waylau/netty-4-user-guide-demos)
 * [netty码云仓库](https://gitee.com/mirrors/netty)
 * [李林峰老师编写的netty权威指南（第二版）对应的源码](https://github.com/wuyinxian124/nettybook2)
 * [netty-learning](https://github.com/code4craft/netty-learning)
-* []()
-* []()
+* [*ThreadPoolExecutor学习笔记](https://www.jianshu.com/p/d621da64fae0)
 * [netty源码分析之netty设计架构模式详解](https://www.bilibili.com/video/av58786879?from=search&seid=9799140655925587866)
-* [网络应用框架 Netty 视频教程全集（91P）| 61 小时从入门到精通](https://www.bilibili.com/video/av59683486/?p=3)
-
+* [Netty 消息接收类故障案例分析](https://blog.csdn.net/caohao1210/article/details/87708093)
+* [面试官问我零拷贝的实现原理，当场懵了](https://www.jianshu.com/p/2581342317ce)
 
 # javascript
 * [React is a JavaScript library for building user interfaces.](https://github.com/facebook/react)
@@ -171,6 +173,12 @@
 # Dubbo
 * [40 道 Dubbo 面试题及答案](https://zhuanlan.zhihu.com/p/45846108)
 * [Dubbo中文文档](http://dubbo.apache.org/zh-cn/docs/user/quick-start.html)
+
+# SpringSecurity
+* [SpringSecurity精讲](https://www.bilibili.com/video/av40943281?p=1)
+* []()
+* []()
+* []()
 
 # SpringCloud
 * [mall-swarm是一套微服务商城系统，采用了 Spring Cloud Greenwich、Spring Boot 2、MyBatis、Docker、Elasticsearch等核心技术](https://github.com/macrozheng/mall-swarm)
@@ -235,7 +243,121 @@
 * [rabbitMq集群之镜像模式](https://blog.csdn.net/wexiaoword/article/details/81352045)
 * [RabbitMQ 集群之镜像同步](https://www.cnblogs.com/LiangSW/p/6242280.html)
 * [RabbitMQ集群搭建-镜像模式](https://www.jianshu.com/p/5b2879fba25b)
+* [Springboot 整合RabbitMq ，用心看完这一篇就够了](https://blog.csdn.net/qq_35387940/article/details/100514134)
+* [SpringBoot整合RabbitMQ之 典型应用场景实战一](https://blog.csdn.net/u013871100/article/details/82982235)
+* [RabbitMQ视频教程](https://www.bilibili.com/video/av71666962?p=2)
 * []()
 * []()
 * []()
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# IM即时通讯
+* [IM即时通讯-论坛](http://www.52im.net/)
+* [J-IM 是用JAVA语言,基于t-io开发的轻量、高性能、单机支持几十万至百万在线用户IM](https://gitee.com/xchao/j-im)
+* [CIM支撑 websocket，android，ios，桌面应用](https://gitee.com/farsunset/cim)
+* [gitee - IM即时通讯](https://gitee.com/search?utf8=%E2%9C%93&type=&fork_filter=on&q=im)
+* [新手入门一篇就够：从零开发移动端IM](http://www.52im.net/thread-464-1-1.html)
+* [微信朋友圈千亿访问量背后的技术挑战和实践总结](http://www.52im.net/thread-1569-1-1.html)
+* [新手入门贴：史上最全Web端即时通讯技术原理详解](http://www.52im.net/thread-338-1-1.html)
+* [开源libco库：单机千万连接、支撑微信8亿用户的后台框架基石 ](http://www.52im.net/thread-623-1-2.html)
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# EhCache缓存
+* [如果是单个应用或者对缓存访问要求很高的应用，用ehcache.如果是大型系统，存在缓存共享、分布式部署、缓存内容很大的，建议用redis,ehcache也有缓存共享方案，不过是通过RMI或者Jgroup多播方式进行广播缓存通知更新，缓存共享复杂，维护不方便；简单的共享可以，但是涉及到缓存恢复，大数据缓存，则不合适。工作方式不一样，可以理解为ehcache是单机版缓存，redis是服务器版的缓存.]()
+* [EhCache缓存](https://blog.csdn.net/qq_42969074/article/details/85642873)
+* [使用Ehcache的两种方式（代码、注解）](https://blog.csdn.net/u014104286/article/details/79125141)
+* [spring+ehcache之基于注解方式详解](https://blog.csdn.net/qq_33333654/article/details/96434583)
+* [ehcache与redis使用场景](https://www.zhihu.com/question/24504292)
+* []()
+
+# telnet命令使用
+* [telnet命令使用步骤](运行->cmd,回车->输入：tenlet ip port,回车-> ctrl键 + ]键)
+* []()
+* []()
+
+# Activiti工作流
+* [activiti7视频教程](https://www.bilibili.com/video/av78149249?p=1)
+* [activiti其他视频教程](https://search.bilibili.com/all?keyword=%E5%B7%A5%E4%BD%9C%E6%B5%81&from_source=nav_search_new)
+* [官网开发指南](https://www.activiti.org/get-started)
+* [gitee镜像](https://gitee.com/mirrors/Activiti)
+* [Activiti eclipse插件](https://www.activiti.org/designer/update)
+* [Activiti eclipse插件](https://docs.alfresco.com/6.1/tasks/wf-install-activiti-designer.html)
+* [eclipse 安装activiti-designer-5.18插件网盘下载](https://blog.csdn.net/lgw_999/article/details/82874112)
+* [Springboot2+activiti7](https://blog.csdn.net/daima_caigou/article/details/84450237)
+* [Activiti7工作流+SpringBoot](https://blog.csdn.net/qq_40451631/article/details/84937251)
+* [使用Eclipse绘制activiti流程图（请假审批流程图）](https://blog.csdn.net/qq_29914837/article/details/91902818)
+* [部署 Activiti 流程时出现的异常](https://blog.csdn.net/yage124/article/details/103106963)
+* [activiti main config 等的属性介绍](https://www.jianshu.com/p/350f0fa21c09)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
+# mysql数据库
+* [mysql建数据库的字符集与排序规则说明](https://blog.csdn.net/qq_38224812/article/details/80745868)
+* [Unicode编码表](https://blog.csdn.net/leelyliu/article/details/52879685)
+* [MySQL数据库字符集](https://www.jianshu.com/p/3124ef0e2a5f)
+* [常用字符集设置：utf8(不能存储emoji)，utf8mb4(可以支持4个字节存储例如：某些emoji表情)
+常见collation设置：utf8_general_ci(不区分大小写)，utf8_bin(区分大小写)]()
+* []()
+* []()
+* []()
+
+# lombok
+* [lombok官网](https://projectlombok.org/)
+* [eclipse集成lombok，以及lombok注解的使用](https://blog.csdn.net/qq_23167527/article/details/80608351)
+* [解决lombok双击无法安装的问题](https://www.jianshu.com/p/d9aa0180389d)
+* [eclipse集成lombok注解不起作用](https://blog.csdn.net/sunnyXie1/article/details/82428236)
+* [Spring STS 安装 lombok重启无效解决办法](https://blog.csdn.net/m673010624/article/details/61936185)
+* []()
+* []()
+
+
+# docker 和  k8s（kubernetes）和 jenkins
+* [docker中文官网](http://www.docker.org.cn/)
+* [DockerInfo](http://www.dockerinfo.net/)
+* [docker视频教程](https://search.bilibili.com/all?keyword=docker&from_source=nav_search_new)
+* [docker视频教程2正在学习](https://www.bilibili.com/video/av67964765?p=5)
+* [docker视频教程3](https://www.bilibili.com/video/av75620482?p=1)
+* [Docker 全套教程(合集)](https://www.bilibili.com/video/av80691610?from=search&seid=9116244812626745152)
+* [2019最新 Docker容器+k8s技术完全解读](https://www.bilibili.com/video/av76964971?from=search&seid=9116244812626745152)
+* [一起来学docker和kubernetes](https://www.bilibili.com/video/av70188670?from=search&seid=9116244812626745152)
+* [Docker+K8S+Jenkins项目实战视频教程](https://www.bilibili.com/video/av62049929?from=search&seid=9116244812626745152)
+* [*CentOS安装Docker-ce并配置国内镜像](https://www.cnblogs.com/hellxz/p/11044012.html)
+* []()
+
+# nginx
+* [尚硅谷nginx视频教程](https://search.bilibili.com/all?keyword=%E5%B0%9A%E7%A1%85%E8%B0%B7nginx)
+
+# waitfor
+* [ci/cd jenkins]()
+* [docker]()
+* [淘宝订单业务流]()
+mysql innodb myisam
+mysql主从
+mycat 高可用负载均衡集群
+HAproxy
+keepalived nginx
+activeMQ RocketMQ RabbitMQ
+fastDFS
+dubbo
+zookeeper
+nginx
+互联网电商项目
+* []()
+* []()
+* []()
+* []()
+ 
