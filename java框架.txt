@@ -230,6 +230,7 @@
 
 # RabbitMQ 
 * [RabbitMQ视频教程](https://www.bilibili.com/video/av71666962?p=2)
+* [RabbitMQ 目录](https://blog.csdn.net/weixin_33669968/article/details/99618744)
 * [RabbitMQ Spring（十二）全局转换器整合多个转换器，支持文件的生产和消费](https://blog.csdn.net/weixin_33669968/article/details/90249745)
 * [rabbitMq集群之镜像模式](https://blog.csdn.net/wexiaoword/article/details/81352045)
 * [RabbitMQ 集群之镜像同步](https://www.cnblogs.com/LiangSW/p/6242280.html)
