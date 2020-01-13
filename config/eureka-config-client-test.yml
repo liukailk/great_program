@@ -1,0 +1,5 @@
+data:
+  env: eureka-config-client-v1.8
+  user:
+    uname: 888888
+    pword: 888888
