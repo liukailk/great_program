@@ -1,3 +1,5 @@
+server:
+  port: 8091
 data:
   env: eureka-config-client-v1.1
   user:
