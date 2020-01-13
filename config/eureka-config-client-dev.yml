@@ -3,5 +3,5 @@ server:
 data:
   env: eureka-config-client-v1.1
   user:
-    uname: 77777771
-    pword: 77777771
+    uname: 77777772
+    pword: 77777772
