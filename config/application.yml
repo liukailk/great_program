@@ -1,0 +1,11 @@
+spring: 
+  profiles: 
+    active: dev
+data: 
+  test: dev-data2
+---
+spring: 
+  profiles: 
+    active: test
+data: 
+  test: test-data2
