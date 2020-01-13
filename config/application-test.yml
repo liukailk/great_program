@@ -2,4 +2,4 @@ spring:
   profiles: 
     active: test
 data: 
-  test: test-data
+  test: test-data2
